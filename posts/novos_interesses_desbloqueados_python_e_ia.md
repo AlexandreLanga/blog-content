@@ -76,10 +76,10 @@ Tudo foi muito mais fácil de integrar depois da palestra do [Vinicius Dias](htt
 
 Depois dessas AULAS ficou bem mais fácil fazer a comunicação de front com back e otimizar os retornos da API e requisições.
 
-![Milu answer example](https://res.cloudinary.com/diizw3dqm/image/upload/v1781729996/milu_answer_hewny2.webp)
+![Milu answer example](https://res.cloudinary.com/diizw3dqm/image/upload/v1781732969/miluanswer_i4yoop.webp)
 
-![Milu API on air](https://res.cloudinary.com/diizw3dqm/image/upload/v1781729996/milu_api_fd69f4.webp)
+![Milu API on air](https://res.cloudinary.com/diizw3dqm/image/upload/v1781732969/miluapi_piju4j.webp)
 
-![Alura certification Py and AI](https://res.cloudinary.com/diizw3dqm/image/upload/v1781730859/alura_1_q8grer.webp)
+![Alura certification Py and AI](https://res.cloudinary.com/diizw3dqm/image/upload/v1781732969/alura1_ylmah0.webp)
 
-![Alura certification HTTPS](https://res.cloudinary.com/diizw3dqm/image/upload/v1781730859/alura_2_vxy0h4.webp)
+![Alura certification HTTPS](https://res.cloudinary.com/diizw3dqm/image/upload/v1781732969/alura2_imhdvt.webp)
