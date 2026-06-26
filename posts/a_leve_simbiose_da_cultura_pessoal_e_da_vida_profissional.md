@@ -85,7 +85,11 @@ Pra fechar, aquele fato sobre a **IA, ela sozinha não te leva a lugar nenhum**,
 E pra fechar com chave de ouro, pude falar com ele **em inglês**, fique super feliz em poder conversar com nativo, segue o áudio:
 
 [audio]
-src="https://res.cloudinary.com/diizw3dqm/video/upload/v1782238675/talkwithglasco_bqyckk.mp4" type="audio/mpeg"
+src="https://res.cloudinary.com/diizw3dqm/video/upload/v1782441501/talkwithglasco_u5mvhd.mp3" type="audio/mpeg"
+[/audio]
+
+[audio]
+https://res.cloudinary.com/diizw3dqm/video/upload/v1782441501/talkwithglasco_u5mvhd.mp3|audio/mpeg
 [/audio]
 
 Sim, eu estava um pouco ansioso, então eu atropelei as perguntas no começo, mas basicamente eu quis entender como os estúdios do COD (Treyarch, Infinity Ward, Sledgehammer, Raven), cooperavam, pois sempre houve uma "richa" com o pessoal que joga dizendo que tal jogo de tal franquia era melhor etc...
