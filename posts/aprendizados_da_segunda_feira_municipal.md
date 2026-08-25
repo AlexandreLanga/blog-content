@@ -65,3 +65,14 @@ Se pudessemos sintetizar as forças mais transformadoras da história, em ordem 
 - 14 - Inteligência artificial
 
 Olhando para os **dias de hoje**... Tirando a revolução industrial que foi um fato histórico, e a mais recente IA, **todos esses tópicos ainda são atuais**, são o que movem o mundo, entre eles não existem uma hierárquia, todos são dependentes um do outro, e eu me pergunto, quantas coisas estão para surgir em cima deles? Talvez para você leitor, seja um incentivo a criatividade escolher um destes que te chame a atenção e buscar conhecimento, neles sempre haverá demanda.
+
+---
+
+Para fechar, acho que o maior aprendizado que tive nessa noite foi um reaprendizado, sobre o tão infame "**complexo de vira-lata**", mas... este mesmo foi muito aprofundado.
+
+Dando um pequeno contexto, esse termo foi criado por Nelson Rodrigues em 1958, 8 anos após o Maracanazo, e compara o brasileiro ao vira-lata, sem raça, sem valor, inferior, e realmente é como a grande massa dos cidadões desse país em 2026 vive, delegando solução de fora, "já existe nos EUA", "não vai dar certo aqui", pra se ver, algo de 1958 segue tendo um forte viés nos dias de hoje.
+
+É nesse ponto que **temos que inovar**, **valorizar** nossas conquistas, **criar o nosso, do nosso jeito**, e isso é algo que aqueles que buscam a evolução e conhecimento nesse país vêm fazendo, eu ainda tenho esperança, apesar de pouco a pouco ela se esvair, mas seguimos em pé.
+
+---
+
