@@ -76,3 +76,34 @@ Dando um pequeno contexto, esse termo foi criado por Nelson Rodrigues em 1958, 8
 
 ---
 
+Quanto a palestra do Gil, tive ideias que ajudaram a validar um ideal que tento carregar comigo...
+
+> A curiosidade é a essência da inovação
+
+Apesar de ter aquela brincadeira de 5° série com esse tópico que todo brasileiro conhece bem... A **curiosidade** é algo que gosto muito.
+
+Ela **viabiliza a prática científica**, o **questionamento**, a **reavaliação de padrões**, além de ser muitas vezes ser sinônimo de vida, onde pessoas podem se divertir explorando possibilidades ainda não descobertas.
+
+---
+
+Acho que o ponto principal da palestra conforme o titulo sugere, apesar de a inovação ser boa e frequente, aprender não é o problema, o problema é desaprender do que pode estar obsoleto ou desatualizado.
+
+O ser humano naturalmente tem uma [resistência a mudança](https://www.saudemental.psc.br/materias/esclarecendo/2112-por-que-mudar-e-tao-dificil-a-psicologia-explica-a-resistencia-a-mudanca), a principal competência do futuro sera substituir/atualizar, não necessáriamente o novo, e eu concordo em boa parte com isso.
+
+Junto das mudanças positivas atuais no mundo, existem muita tecnologia impactando áreas como a saúde, o robô que nos foi apresentado na palestra, está sendo usado para idosos conversarem e estimular a conversa e diagnósticos nos hospitais, no Japão, existem outros robôs que pessoas com doenças críticas controlam remotamente para poder conversar e ter uma vida social mesmo que de longe e sem poder se mexer.
+
+O futuro pode ser bom, cabe a nós acreditarmos no nosso potêncial e impactar positivamente a vida das pessoas. E como o próprio encerramento dele:
+
+> Aqueles que foram vistos dançando, foram considerados insanos por aqueles que não conseguiram escutar a música.
+
+---
+
+Foi uma boa noite com ótimas reflexões, ansioso por mais!
+
+[Me and Nau](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/meandnau_bisoit.jpg)
+
+[Viralata](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/viralata_rasobt.jpg)
+
+[Graph](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/graph_tdip0r.jpg)
+
+[Gil phrase](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/phrase_ompc69.jpg)
