@@ -100,10 +100,10 @@ O futuro pode ser bom, cabe a nós acreditarmos no nosso potêncial e impactar p
 
 Foi uma boa noite com ótimas reflexões, ansioso por mais!
 
-[Me and Nau](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/meandnau_bisoit.jpg)
+![Me and Nau](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/meandnau_bisoit.jpg)
 
-[Viralata](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/viralata_rasobt.jpg)
+![Viralata](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/viralata_rasobt.jpg)
 
-[Graph](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/graph_tdip0r.jpg)
+![Graph](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/graph_tdip0r.jpg)
 
-[Gil phrase](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/phrase_ompc69.jpg)
+![Gil phrase](https://res.cloudinary.com/diizw3dqm/image/upload/v1787801215/phrase_ompc69.jpg)
