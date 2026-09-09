@@ -41,8 +41,8 @@ Que fique bem claro que esse foi um detalhe feito por um dev em começo de carre
 
 Toda a parte técnica pode ser avaliada nos meu repositórios públicos:
 
-- TetoAPI
-- TetoDesktop
+- [TetoAPI](https://github.com/AlexandreLanga/TetoAPI)
+- [TetoDesktop](https://github.com/AlexandreLanga/TetoDesktop)
 
 Um é uma API, que contaria com a análise de no máximo 3 imagens por modelo, e outro o aplicativo que consumiria dessa API, desenhando nas imagens com base nas marcações dos poligonos retornados pela análise, junto da análise do telhado, pontos de desgate, de possíveis infiltrações etc...
 
