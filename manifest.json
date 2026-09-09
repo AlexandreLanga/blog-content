@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "title": "BLOG.POSTS.UM_PROJETO_QUE_NAO_FOI_PARA_FRENTE_TITLE",
+      "summary": "BLOG.POSTS.UM_PROJETO_QUE_NAO_FOI_PARA_FRENTE_SUMMARY",
+      "slug": "um_projeto_que_nao_foi_para_frente",
+      "date": "2026-09-08",
+      "file": "um_projeto_que_nao_foi_para_frente.md",
+      "tags": ["projeto", "aprendizado"]
+    },
+    {
       "title": "BLOG.POSTS.FEIRA_INOVACAO_CHAPECO_TITLE",
       "summary": "BLOG.POSTS.FEIRA_INOVACAO_CHAPECO_SUMMARY",
       "slug": "aprendizados_da_segunda_feira_municipal",
