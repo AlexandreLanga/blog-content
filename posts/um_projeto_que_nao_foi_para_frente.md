@@ -51,15 +51,17 @@ Ao construir o projeto ao longo dos dias, fui percebendo que a partir de determi
 # A perda
 
 [video]
-https://cdn.exemplo.com/video.mp4|video/mp4
+https://res.cloudinary.com/diizw3dqm/video/upload/v1788912473/night_wpjwsw.mp4
 [/video]
 
-Esse primeiro vídeo é eu levantando voo com ele após ele chegar, pratiquei com ele por cerca de 2 dias levantanto e andando devagar pela área da minha casa, e nesse 2 dia de prática, durante a noite, pude botar ele para voar sobre a nossa casa.
+*Os vídeos estão em 720p, infelizmente é a melhor qualidade disponível nesses vídeos para upload no Cloudinary*
+
+Esse primeiro vídeo é eu levantando voo com ele após ele chegar, pratiquei com ele por cerca de 2 dias levantanto e andando devagar pela área da minha casa, e nesse 2 dia de prática, durante a noite, pude botar ele para voar sobre a nossa casa, por mais que estivesse escuro, deu para realizar o voo com sucesso.
 
 Nesse dia (sábado) eu peguei confiança que tinha conseguido o básico para poder fazer uma operação simples de tirar as fotos do telhado, pois em velocidade média e com um pouquinho de vento ainda sim ele voou e voltou, no outro dia (domingo) eu iria testar pra valer.
 
 [video]
-https://cdn.exemplo.com/video.mp4|video/mp4
+https://res.cloudinary.com/diizw3dqm/video/upload/v1788912468/fail_b4gjai.mp4
 [/video]
 
 Esse é o segundo e último vídeo do drone sob minha posse, conforme a gravação, até a parte de elevar o drone sob o telhado estava controlado, mas depois que ele ganhou certa altura... tudo foi pelo ralo.
