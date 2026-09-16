@@ -6,7 +6,7 @@
       "slug": "um_projeto_que_nao_foi_para_frente",
       "date": "2026-09-08",
       "file": "um_projeto_que_nao_foi_para_frente.md",
-      "tags": ["projeto", "aprendizado"]
+      "tags": [1, 2]
     },
     {
       "title": "BLOG.POSTS.FEIRA_INOVACAO_CHAPECO_TITLE",
@@ -14,7 +14,7 @@
       "slug": "aprendizados_da_segunda_feira_municipal",
       "date": "2026-08-27",
       "file": "aprendizados_da_segunda_feira_municipal.md",
-      "tags": ["evento", "inovacao"]
+      "tags": [3, 4]
     },
     {
       "title": "BLOG.POSTS.ARENA_GEEK_TITLE",
@@ -22,7 +22,7 @@
       "slug": "a_leve_simbiose_da_cultura_pessoal_e_da_vida_profissional",
       "date": "2026-06-25",
       "file": "a_leve_simbiose_da_cultura_pessoal_e_da_vida_profissional.md",
-      "tags": ["evento"]
+      "tags": [3]
     },
     {
       "title": "BLOG.POSTS.PYTHON_E_IA_TITLE",
@@ -30,7 +30,7 @@
       "slug": "novos_interesses_desbloqueados_python_e_ia",
       "date": "2026-06-17",
       "file": "novos_interesses_desbloqueados_python_e_ia.md",
-      "tags": ["python", "ia", "projeto"]
+      "tags": [5, 6, 1]
     },
     {
       "title": "BLOG.POSTS.PHP_VELHO_OESTE_TITLE",
@@ -38,7 +38,7 @@
       "slug": "minha_experiencia_com_o_php_velho_oeste_2026",
       "date": "2026-05-31",
       "file": "php_velho_oeste_2026_minha_experiencia.md",
-      "tags": ["evento", "php"]
+      "tags": [3, 7]
     },
     {
       "title": "BLOG.POSTS.STARTUP_WEEKEND_TITLE",
@@ -46,7 +46,7 @@
       "slug": "como_o_tsw_mudou_minha_visao_profissional",
       "date": "2026-05-20",
       "file": "como_o_tsw_mudou_minha_visao_profissional.md",
-      "tags": ["evento", "inovacao"]
+      "tags": [3, 4]
     }
   ]
 }
