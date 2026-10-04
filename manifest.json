@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "title": "BLOG.POSTS.EMPREENDE_UFFS_2026_TITLE",
+      "summary": "BLOG.POSTS.EMPREENDE_UFFS_2026_SUMMARY",
+      "slug": "empreende_uffs_2026",
+      "date": "2026-09-08",
+      "file": "primeiro_lugar_e_participacao_no_empreende_uffs_2026.md",
+      "tags": [3, 4]
+    },
+    {
       "title": "BLOG.POSTS.UM_PROJETO_QUE_NAO_FOI_PARA_FRENTE_TITLE",
       "summary": "BLOG.POSTS.UM_PROJETO_QUE_NAO_FOI_PARA_FRENTE_SUMMARY",
       "slug": "um_projeto_que_nao_foi_para_frente",
