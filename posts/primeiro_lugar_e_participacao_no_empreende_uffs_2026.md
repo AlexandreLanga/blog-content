@@ -58,12 +58,12 @@ Em algum momento próximo, provavelmente vou me ausentar da organização do Sta
 
 E depois de sair, buscar novos desafios que sejam tão fascinantes quanto, enquanto puder participar desse ecossistema bom será, mas após... existem desafios maiores que hoje eu vislumbro de longe, na esperança de algum dia chegar lá, mas por enquanto, o que preciso fazer é aprender e me consolidar, para que cada vez mais, dia após dia, talvez algum dia chegar lá.
 
-[Trophy](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/trophy_a7esbn.jpg)
+![Trophy](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/trophy_a7esbn.jpg)
 
-[Treasure](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/treasure_rsdq6v.jpg)
+![Treasure](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/treasure_rsdq6v.jpg)
 
-[Jess](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087425/jess_fmequz.jpg)
+![Jess](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087425/jess_fmequz.jpg)
 
-[Business](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/event_rfcxzz.jpg)
+![Business](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087426/event_rfcxzz.jpg)
 
-[UFFS](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087425/uffs_a0s68h.jpg)
+![UFFS](https://res.cloudinary.com/diizw3dqm/image/upload/v1791087425/uffs_a0s68h.jpg)
