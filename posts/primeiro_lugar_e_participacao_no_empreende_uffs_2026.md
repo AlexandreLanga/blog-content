@@ -1,4 +1,4 @@
-Nos dias 25 e 26 de Semtembro, pude participar do Desafio Empreende UFFS 2026, evento de inovação e emprendeedorismo da Universidade Federal da Fronteira Sul.
+Nos dias 25 e 26 de Semtembro, pude participar do Desafio Empreende UFFS 2026, evento de inovação e empreendedorismo da Universidade Federal da Fronteira Sul.
 
 Topei o desafio de voltar a construção de uma nova solução depois de mais de um ano, e foi uma ótima experiência.
 
